@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <unordered_set>
+#include <string>
 using namespace std;
 
 void setIO(string name = "") {
